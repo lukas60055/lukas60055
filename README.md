@@ -5,7 +5,7 @@
 ## 👦 About Me
 My name is Łukasz Duda, I live in Kraków. I am thriving as a Front-end Developer.
 - 👨‍💻 Check out my available [projects](https://github.com/lukas60055?tab=repositories).
-- 🔭 Check out my <a href="https://lukaspro.pl/" target="_blank">portfolio</a>.
+- 🔭 Check out my [portfolio](https://lukaspro.pl/){:target="_blank"}
 - 📫 How to reach me [lukas60055@gmail.com](mailto:lukas60055@gmail.com)
 
 ## 💻 Skills
