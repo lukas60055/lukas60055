@@ -3,7 +3,7 @@
 </div>
 
 ## 👦 About Me
-My name is Łukasz Duda, I live in Kraków. I am thriving as a Front-end Developer.
+My name is Łukasz Duda, I live in Kraków. I am thriving as a Full-Stack Developer.
 - 👨‍💻 Check out my available [projects](https://github.com/lukas60055?tab=repositories)
 - 🔭 Check out my [portfolio](https://lukaspro.pl/)
 - 📫 How to reach me [kontakt@lukaspro.pl](mailto:kontakt@lukaspro.pl)
@@ -15,7 +15,7 @@ My name is Łukasz Duda, I live in Kraków. I am thriving as a Front-end Develop
 
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white)
 
 
 *// Which came first: the chicken or the egg?*<br>
