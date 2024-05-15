@@ -12,10 +12,10 @@ Hello! I'm Łukasz Duda, a Full-Stack Developer based in Kraków. I'm passionate
 ## 💻 Skills
 I have a diverse skill set, ranging from front-end to back-end development, including:
 
-**Frontend Development:**<br>
+#### Frontend Development: <br>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?&logo=next.js&logoColor=white) ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white)
 
-**Backend Development:**<br>
+##### Backend Development: <br>
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)  ![Knex.js](https://img.shields.io/badge/Knex.js-ff5722?logo=knex.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?logo=json-web-tokens&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white) 
 
 **Databases:**<br>
